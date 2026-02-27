@@ -13,10 +13,10 @@ JSON-driven website:
 |
 [Step 6](https://github.com/dr-matt-smith/FEDev-JSON-data-driven-website-step-6)
 |
-[Step 7](https://github.com/dr-matt-smith/FEDev-JSON-data-driven-website-step-7)
+Step 7
 
 
-# FEDev-JSON-data-driven-website-step-4
+# FEDev-JSON-data-driven-website-step-7
 
 ![module list from JSON](/screenshots/6_all_modules_from_JSON.png)
 
